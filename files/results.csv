@@ -1,0 +1,11 @@
+number,name,ref,to_location,type
+1,bulbasaur,/us/pokedex/bulbasaur,./images/ok/grass/001-bulbasaur.png,grass-poison
+2,ivysaur,/us/pokedex/ivysaur,./images/ok/grass/002-ivysaur.png,grass-poison
+3,venusaur,/us/pokedex/venusaur,./images/ok/grass/003-venusaur.png,grass-poison
+4,charmander,/us/pokedex/charmander,./images/ok/fire/004-charmander.png,fire
+5,charmeleon,/us/pokedex/charmeleon,./images/ok/fire/005-charmeleon.png,fire
+6,charizard,/us/pokedex/charizard,./images/ok/fire/006-charizard.png,fire-flying
+7,squirtle,/us/pokedex/squirtle,./images/ok/water/007-squirtle.png,water
+8,wartortle,/us/pokedex/wartortle,./images/ok/water/008-wartortle.png,water
+9,blastoise,/us/pokedex/blastoise,./images/ok/water/009-blastoise.png,water
+10,caterpie,/us/pokedex/caterpie,./images/ok/bug/010-caterpie.png,bug
