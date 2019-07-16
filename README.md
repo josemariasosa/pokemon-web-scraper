@@ -172,7 +172,7 @@ images/
 └── raw
 ```
 
-Containing the main pokemon type as containing folder, and the number and the name as the image name. This step requires 2 processes. First, generate the structure of the directories using the main pokemon type. Then, download the image into each of the folders. The first process is described in the **setDirs** function, and the latter in the **downloadImages** function.
+Containing the main pokemon type as containing folder, and the number and the name as the image name. This step requires 2 processes. First, generate the structure of the directories using the main pokemon type. Then, download the image into each of the folders. The first process is described in the **setDirs**() function, and the latter in the **downloadImages**() function.
 
 ```python
 def setDirs(pokedex):
