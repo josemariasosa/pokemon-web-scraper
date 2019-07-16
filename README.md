@@ -91,6 +91,16 @@ pokedex.to_csv('files/pokedex.csv', index=False)
 
 Using only the first 15 Pokemons, extract the pokemon types. Generate a new csv-file with the information of the pokemon name, number, href, type and image location url.
 
+The result of this section must be a file with 15 rows, one for each Pokemon.
+
+| number | name       | ref                    | img_url                                                         | type         |
+|--------|------------|------------------------|-----------------------------------------------------------------|--------------|
+| 1      | bulbasaur  | /us/pokedex/bulbasaur  | https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png | grass-poison |
+| 2      | ivysaur    | /us/pokedex/ivysaur    | https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png | grass-poison |
+| 3      | venusaur   | /us/pokedex/venusaur   | https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png | grass-poison |
+| 4      | charmander | /us/pokedex/charmander | https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png | fire         |
+| 5      | charmeleon | /us/pokedex/charmeleon | https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png | fire         |
+
 ```python
 def getPokemonType():
 
