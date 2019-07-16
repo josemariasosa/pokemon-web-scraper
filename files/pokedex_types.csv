@@ -1,0 +1,16 @@
+img_url,name,number,ref,type
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png,bulbasaur,1,/us/pokedex/bulbasaur,grass-poison
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png,ivysaur,2,/us/pokedex/ivysaur,grass-poison
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png,venusaur,3,/us/pokedex/venusaur,grass-poison
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png,charmander,4,/us/pokedex/charmander,fire
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png,charmeleon,5,/us/pokedex/charmeleon,fire
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png,charizard,6,/us/pokedex/charizard,fire-flying
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png,squirtle,7,/us/pokedex/squirtle,water
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png,wartortle,8,/us/pokedex/wartortle,water
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png,blastoise,9,/us/pokedex/blastoise,water
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png,caterpie,10,/us/pokedex/caterpie,bug
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png,metapod,11,/us/pokedex/metapod,bug
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png,butterfree,12,/us/pokedex/butterfree,bug-flying
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png,weedle,13,/us/pokedex/weedle,bug-poison
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png,kakuna,14,/us/pokedex/kakuna,bug-poison
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png,beedrill,15,/us/pokedex/beedrill,bug-poison
